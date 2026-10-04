@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on AI/ML and full-stack projects<br>I’m currently collaborating on College projects and hackathons<br>I’m looking for help with LLMs, RAG, and Agentic AI<br>I’m currently learning Machine Learning, Generative AI, and DSA<br>Ask me about: Java, DSA, Git/GitHub, and Web Development<br>Fun fact is that I love learning by building projects 
+I’m currently working on AI/ML and full-stack projects<br>I’m currently collaborating on College projects and hackathons<br>I’m looking to learn more about LLMs, RAG, and Agentic AI<br>I’m currently learning Machine Learning, Generative AI, and DSA<br>Fun fact is that I love learning by building projects 
 
 
 ## 🌐 Socials:
